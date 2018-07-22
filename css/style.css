@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Exo+2|Open+Sans');
+
+body {
+    min-height: 100%;
+    font-family: 'Open Sans', sans-serif;
+}
+h1,h2,h3,h4,h5,h6, a {
+    font-family: 'Exo 2', sans-serif;
+}
+card {
+    width: 18rem;
+}
+.mastinfo {
+    background-color: rgba(0,0,0,0.5);
+}
+.jumbotron {
+    background-image: url('http://lorempixel.com/1280/1024/abstract/');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+}
